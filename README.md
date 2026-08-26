@@ -1,2 +1,2 @@
 # redesigned-lamp
-so this is my official first README
+this is my official first README.
